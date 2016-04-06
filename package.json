@@ -1,0 +1,26 @@
+{
+  "name": "meal-calculator",
+  "version": "1.0.0",
+  "description": "A calculator for figuring out cost of meal, plus tax and individual share of tip.",
+  "main": "calculator.js",
+  "scripts": {
+    "push:master": "git push origin master",
+    "pull:master": "git pull origin master",
+    "chk:master": "git checkout master",
+    "push:pages": "git push origin gh-pages",
+    "pull:pages": "git pull origin gh-pages",
+    "chk:pages": "git checkout gh-pages",
+    "add": "git add -A",
+    "commit": "git commit -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstrother/meal-calculator.git"
+  },
+  "author": "Jim Strother",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstrother/meal-calculator/issues"
+  },
+  "homepage": "https://github.com/jstrother/meal-calculator#readme"
+}
